@@ -7,10 +7,11 @@ This repository demonstrates a complete **Weighted Gene-Co-expression Network An
 
 1. **Download** `GeneExpression.zip`.
 2. **Unzip** it in the project root – you should end up with:
-   
+```text
 GeneExpression/
 ├── OSCC_TCGA_gene_expression_337.csv
 ├── OSCC_TCGA_gene_expression_32.csv
+```
 
 ## 2  Code
 
