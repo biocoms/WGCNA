@@ -26,7 +26,7 @@ GeneExpression/
 1. Place `wgcna.R` in the same directory **alongside** the `GeneExpression/` folder.  
 2. Open the script in **RStudio** to run the code
 
-Citation
+## Citation
 
 If you use this repository or the pipeline in your research, please cite:
 
