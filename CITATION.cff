@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repository or the pipeline, please cite the following paper:"
+title: "WGCNA and Module Preservation"
+authors:
+  - family-names: Nguyen
+    given-names: Phuong
+  - family-names: Zeng
+    given-names: Erliang
+date-released: 2025-09-21
+version: "1.0.0"
+doi: "10.21769/BioProtoc.5447"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Nguyen
+      given-names: Phuong
+    - family-names: Zeng
+      given-names: Erliang
+  title: "A Protocol for Weighted Gene Co-expression Network Analysis With Module Preservation and Functional Enrichment Analysis for Tumor and Normal Transcriptomic Data"
+  journal: "Bio-protocol"
+  volume: "15"
+  number: "18"
+  year: 2025
+  pages: "e5447"
+  doi: "10.21769/BioProtoc.5447"
+
