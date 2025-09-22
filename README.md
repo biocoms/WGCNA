@@ -25,3 +25,9 @@ GeneExpression/
 ## 3  How to run
 1. Place `wgcna.R` in the same directory **alongside** the `GeneExpression/` folder.  
 2. Open the script in **RStudio** to run the code
+
+Citation
+
+If you use this repository or the pipeline in your research, please cite:
+
+Nguyen, P. and Zeng, E. (2025). A Protocol for Weighted Gene Co-expression Network Analysis With Module Preservation and Functional Enrichment Analysis for Tumor and Normal Transcriptomic Data. Bio-protocol, 15(18): e5447. https://doi.org/10.21769/BioProtoc.5447
